@@ -1,0 +1,26 @@
+{
+  "name": "credit-card-number-vld",
+  "version": "1.0.0",
+  "description": "kredi kartı doğrulaması yapar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptainMelih/Credit-Card-Validation.git"
+  },
+  "keywords": [
+    "credit",
+    "card",
+    "number",
+    "validation",
+    "card"
+  ],
+  "author": "Melih Yıldız",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CaptainMelih/Credit-Card-Validation/issues"
+  },
+  "homepage": "https://github.com/CaptainMelih/Credit-Card-Validation#readme"
+}

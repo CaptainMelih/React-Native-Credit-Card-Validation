@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "credit-card-number-vld": "^1.0.0"
+  }
+}
